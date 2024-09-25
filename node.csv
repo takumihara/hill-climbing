@@ -1,0 +1,79 @@
+Brand,Region,Farm,Variety,Year,Rating
+Chardonnay,France,Farm A,Chardonnay,2018,8
+Merlot,Italy,Farm B,Merlot,2019,7
+Cabernet Sauvignon,USA,Farm C,Cabernet Sauvignon,2015,9
+Pinot Noir,France,Farm D,Pinot Noir,2020,6
+Sauvignon Blanc,New Zealand,Farm E,Sauvignon Blanc,2016,8
+Syrah,Spain,Farm F,Syrah,2017,7
+Riesling,Germany,Farm G,Riesling,2021,8
+Zinfandel,USA,Farm H,Zinfandel,2014,9
+Malbec,Argentina,Farm I,Malbec,2013,8
+Grenache,Spain,Farm J,Grenache,2020,7
+Tempranillo,Spain,Farm K,Tempranillo,2016,8
+Viognier,France,Farm L,Viognier,2015,7
+Barbera,Italy,Farm M,Barbera,2018,6
+Petit Verdot,France,Farm N,Petit Verdot,2019,7
+Carmenere,Chile,Farm O,Carmenere,2017,9
+Chenin Blanc,South Africa,Farm P,Chenin Blanc,2020,6
+Gamay,France,Farm Q,Gamay,2021,8
+Cabernet Franc,USA,Farm R,Cabernet Franc,2016,9
+Nebbiolo,Italy,Farm S,Nebbiolo,2015,8
+Sangiovese,Italy,Farm T,Sangiovese,2019,7
+Pinot Gris,Germany,Farm U,Pinot Gris,2017,8
+Gruner Veltliner,Austria,Farm V,Gruner Veltliner,2014,9
+Gewurztraminer,Germany,Farm W,Gewurztraminer,2016,7
+Albarino,Spain,Farm X,Albarino,2018,8
+Torrontes,Argentina,Farm Y,Torrontes,2015,6
+Verdejo,Spain,Farm Z,Verdejo,2019,7
+Fiano,Italy,Farm AA,Fiano,2020,8
+Assyrtiko,Greece,Farm AB,Assyrtiko,2021,9
+Carignan,France,Farm AC,Carignan,2017,6
+Glera,Italy,Farm AD,Glera,2018,7
+Nero d'Avola,Italy,Farm AE,Nero d'Avola,2019,8
+Cinsault,France,Farm AF,Cinsault,2014,7
+Touriga Nacional,Portugal,Farm AG,Touriga Nacional,2020,9
+Mourvedre,Spain,Farm AH,Mourvedre,2021,8
+Bobal,Spain,Farm AI,Bobal,2015,7
+Dolcetto,Italy,Farm AJ,Dolcetto,2016,6
+Primitivo,Italy,Farm AK,Primitivo,2017,8
+Tannat,France,Farm AL,Tannat,2019,9
+Lambrusco,Italy,Farm AM,Lambrusco,2018,7
+Marsanne,France,Farm AN,Marsanne,2020,8
+Roussanne,France,Farm AO,Roussanne,2019,7
+Pecorino,Italy,Farm AP,Pecorino,2021,8
+Trebbiano,Italy,Farm AQ,Trebbiano,2020,6
+Mencia,Spain,Farm AR,Mencia,2019,7
+Cortese,Italy,Farm AS,Cortese,2018,9
+Blaufrankisch,Austria,Farm AT,Blaufrankisch,2020,8
+Negroamaro,Italy,Farm AU,Negroamaro,2019,7
+Furmint,Hungary,Farm AV,Furmint,2021,9
+Pinot Blanc,Germany,Farm AW,Pinot Blanc,2017,8
+Colombard,France,Farm AX,Colombard,2018,6
+Trousseau,France,Farm AY,Trousseau,2020,7
+Sagrantino,Italy,Farm AZ,Sagrantino,2019,8
+Montepulciano,Italy,Farm BA,Montepulciano,2015,9
+Zweigelt,Austria,Farm BB,Zweigelt,2017,6
+Viura,Spain,Farm BC,Viura,2018,8
+Palomino,Spain,Farm BD,Palomino,2019,7
+Listan Negro,Spain,Farm BE,Listan Negro,2020,6
+Agiorgitiko,Greece,Farm BF,Agiorgitiko,2019,9
+Savagnin,France,Farm BG,Savagnin,2021,8
+Teroldego,Italy,Farm BH,Teroldego,2020,7
+Pinotage,South Africa,Farm BI,Pinotage,2017,8
+Lemberger,Germany,Farm BJ,Lemberger,2018,6
+Godello,Spain,Farm BK,Godello,2019,8
+Malvasia,Italy,Farm BL,Malvasia,2020,9
+Verdicchio,Italy,Farm BM,Verdicchio,2016,7
+Aglianico,Italy,Farm BN,Aglianico,2018,8
+Macabeo,Spain,Farm BO,Macabeo,2017,9
+Arinto,Portugal,Farm BP,Arinto,2019,7
+Pallagrello,Italy,Farm BQ,Pallagrello,2020,6
+Ribolla Gialla,Italy,Farm BR,Ribolla Gialla,2021,8
+Brachetto,Italy,Farm BS,Brachetto,2020,7
+Moschofilero,Greece,Farm BT,Moschofilero,2019,8
+Xinomavro,Greece,Farm BU,Xinomavro,2016,7
+Moscatel,Spain,Farm BV,Moscatel,2015,9
+Petit Manseng,France,Farm BW,Petit Manseng,2020,6
+Nerello Mascalese,Italy,Farm BX,Nerello Mascalese,2021,8
+Bonarda,Argentina,Farm BY,Bonarda,2020,7
+Pineau d'Aunis,France,Farm BZ,Pineau d'Aunis,2019,6
